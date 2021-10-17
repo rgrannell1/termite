@@ -1,10 +1,12 @@
 
-# Aggr
+# Termite
 
-Summing
-Counting
-Maximising
-Minimising
+Experiments in high-performance, composable aggregation of streams
+
+- Summing
+- Counting
+- Maximising
+- Minimising
 
 ## Without Sub-Aggregates
 
